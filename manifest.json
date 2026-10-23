@@ -1,0 +1,1704 @@
+{
+ "models": [
+  {
+   "name": "Aluona",
+   "model": "characters/models/aluona/aluona.vmdl",
+   "thumb": "characters/models/aluona/aluona.png",
+   "files": [
+    {
+     "path": "characters/models/aluona/aluona.png",
+     "size": 203498,
+     "sha256": "d46687f2ad4b7e7f9d5e1130b7183dc90f2ee8498591d183c1a650a39d5ed572"
+    },
+    {
+     "path": "characters/models/aluona/aluona.vmdl_c",
+     "size": 2039332,
+     "sha256": "18954d150f6bad965c6d7449ca21632f6e7fa1b0270033f7a54eb4f7a712363a"
+    },
+    {
+     "path": "characters/models/aluona/aluona/face_vmorf.vtex_c",
+     "size": 135976,
+     "sha256": "3969929d77f551e23f2cb5d914bf1417e9bf81fc5f158c75d1a19ceaa0fb7e64"
+    },
+    {
+     "path": "characters/models/aluona/materials/body.vmat_c",
+     "size": 3023,
+     "sha256": "6d50bb635dfaa78de5439a0aa899ead1684a3982f90db02f1c2d2278f21f276e"
+    },
+    {
+     "path": "characters/models/aluona/materials/body_d_jpg_f237d6e0.vtex_c",
+     "size": 701100,
+     "sha256": "45a057ec03514b44925ce2be8b95879afcb0e29dbb6a63d32d19147528ac000c"
+    },
+    {
+     "path": "characters/models/aluona/materials/face.vmat_c",
+     "size": 3023,
+     "sha256": "7b946fdbf77ae179d9a2d5d8ebc16283f8f9b1cd1b33cd96fdab8181841cb40b"
+    },
+    {
+     "path": "characters/models/aluona/materials/face_d_jpg_922b7a8d.vtex_c",
+     "size": 701100,
+     "sha256": "3454703e07f7077b77e5a717cc3242ca2fea0d4a08afb5731fdcc0590e51c473"
+    },
+    {
+     "path": "characters/models/aluona/materials/fuku.vmat_c",
+     "size": 3023,
+     "sha256": "e84d071033483dd68806157a47c15cc113b176e4f1bf6838228397ef52eb30d9"
+    },
+    {
+     "path": "characters/models/aluona/materials/fuku_d_jpg_a21ddad4.vtex_c",
+     "size": 2798252,
+     "sha256": "a84a6dc1966af62bf7cb65fdb0ad5ec82190c4ffdf03a16227d1417eea0c9e06"
+    },
+    {
+     "path": "characters/models/aluona/materials/hair.vmat_c",
+     "size": 3023,
+     "sha256": "d908c8f8fcef0e9986fd9ef8e71556dcb99fa7abf3afacc55b705a2cfbb3df41"
+    },
+    {
+     "path": "characters/models/aluona/materials/hair_d_jpg_8ef9f516.vtex_c",
+     "size": 701100,
+     "sha256": "bcd27cdf7955f8b617a86a8090fc971c82e45937e3d6dd63d2082184ec474aba"
+    },
+    {
+     "path": "characters/models/aluona/materials/morph.vmat_c",
+     "size": 2991,
+     "sha256": "4454f3f2da04aea5765240edda165770dc930d390deea72c2c16d7f2664f7a60"
+    },
+    {
+     "path": "characters/models/aluona/materials/morph_d_jpg_cbeb7b70.vtex_c",
+     "size": 176812,
+     "sha256": "923777b5faba077e309e0d7c74adef3a0e41b07439de95fab99544e1ed8b8dab"
+    },
+    {
+     "path": "characters/models/aluona/materials/morph_d_jpg_e3d2c7b5.vtex_c",
+     "size": 176812,
+     "sha256": "21e05b1073cc9b3750b1c7e76cca57d0925edfae5e43f7ee5f447299c8806f23"
+    },
+    {
+     "path": "characters/models/aluona/materials/s.vmat_c",
+     "size": 4128,
+     "sha256": "4188ba6b82b3486189900c06f8fda58f9410fcb797e53725fc028c5b81207a67"
+    }
+   ]
+  },
+  {
+   "name": "Ams Mm",
+   "model": "characters/models/aquaz/hoshistar/ams_mm/ams_mm.vmdl",
+   "thumb": "characters/models/aquaz/hoshistar/ams_mm/ams_mm.png",
+   "files": [
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/ams_mm.png",
+     "size": 370638,
+     "sha256": "eaa9a445c68d762f8e46dbc0a13858d5a9553f10bc89ca80c55bf94b0cfa10e6"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/ams_mm.vmdl_c",
+     "size": 2597987,
+     "sha256": "1beb6ddc48642449339a7217d49e3c5a9ac489cd3d9848dde889c5228f4d91c5"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/arms.vmat_c",
+     "size": 4128,
+     "sha256": "c9817b24072959da5148011f8aec8d01e3b1903c35095b8e722fc8b418b368b5"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/arms_vmat_g_tmetalness_10974e8a.vtex_c",
+     "size": 2640,
+     "sha256": "76fd809a06ddd1035dde7d0317557522d60b8a294984b425b7f303a7fd80c36e"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/arms_vmat_g_tnormal_cbfddf8a.vtex_c",
+     "size": 2320,
+     "sha256": "29484201ade7ccfa4b4cb340673c515ed38c6ce021e0d777d5c00a3fc91a890c"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/bake.vmat_c",
+     "size": 4268,
+     "sha256": "cb8ede2b650028c73f11f9b4842863cf6df91e8229f1f021149a9a3d344bdcb6"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/bake_otl.vmat_c",
+     "size": 4188,
+     "sha256": "22a327dfb37dc4ac5d332f178c4a680a46b2b407d3aed1f0cabe223aaeae9bef"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/bake_vmat_g_tnormal_cbfddf8a.vtex_c",
+     "size": 2320,
+     "sha256": "29484201ade7ccfa4b4cb340673c515ed38c6ce021e0d777d5c00a3fc91a890c"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/down.vmat_c",
+     "size": 4224,
+     "sha256": "41b0be37d4e0c16b7911d5e4d6a68a5c1fe3d4336e9c10ebe33a75130a5ce702"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/down_vmat_g_tmetalness_10974e8a.vtex_c",
+     "size": 2640,
+     "sha256": "76fd809a06ddd1035dde7d0317557522d60b8a294984b425b7f303a7fd80c36e"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/down_vmat_g_tnormal_cbfddf8a.vtex_c",
+     "size": 2320,
+     "sha256": "29484201ade7ccfa4b4cb340673c515ed38c6ce021e0d777d5c00a3fc91a890c"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/eyes.vmat_c",
+     "size": 4192,
+     "sha256": "4aee3ea5f1d1f7196d52d8fce750b927eaac42e97a441365fe4cbc634f8f593d"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/eyes_vmat_g_tmetalness_10974e8a.vtex_c",
+     "size": 2640,
+     "sha256": "76fd809a06ddd1035dde7d0317557522d60b8a294984b425b7f303a7fd80c36e"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/eyes_vmat_g_tnormal_cbfddf8a.vtex_c",
+     "size": 2320,
+     "sha256": "29484201ade7ccfa4b4cb340673c515ed38c6ce021e0d777d5c00a3fc91a890c"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/face.vmat_c",
+     "size": 4208,
+     "sha256": "c17836a5a0286d207dfe7c1ad44e9afa4e951f90e087ab3fc2cd0634f78bc284"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/face_vmat_g_tmetalness_10974e8a.vtex_c",
+     "size": 2640,
+     "sha256": "76fd809a06ddd1035dde7d0317557522d60b8a294984b425b7f303a7fd80c36e"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/face_vmat_g_tnormal_cbfddf8a.vtex_c",
+     "size": 2320,
+     "sha256": "29484201ade7ccfa4b4cb340673c515ed38c6ce021e0d777d5c00a3fc91a890c"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/hf.vmat_c",
+     "size": 4224,
+     "sha256": "b73a78d8e13af70515798c5c9522bf706a374157465109598df8ef813265a76f"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/hf_vmat_g_tmetalness_10974e8a.vtex_c",
+     "size": 2640,
+     "sha256": "76fd809a06ddd1035dde7d0317557522d60b8a294984b425b7f303a7fd80c36e"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/hf_vmat_g_tnormal_cbfddf8a.vtex_c",
+     "size": 2320,
+     "sha256": "29484201ade7ccfa4b4cb340673c515ed38c6ce021e0d777d5c00a3fc91a890c"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/item.vmat_c",
+     "size": 4192,
+     "sha256": "867af65747b7da44612bd67de97568b1f282d592cc8ed336fb13160844980d25"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/item_vmat_g_tmetalness_10974e8a.vtex_c",
+     "size": 2640,
+     "sha256": "76fd809a06ddd1035dde7d0317557522d60b8a294984b425b7f303a7fd80c36e"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/item_vmat_g_tnormal_cbfddf8a.vtex_c",
+     "size": 2320,
+     "sha256": "29484201ade7ccfa4b4cb340673c515ed38c6ce021e0d777d5c00a3fc91a890c"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/qf.vmat_c",
+     "size": 4224,
+     "sha256": "d11ea7f776003251b30cb3ef0d42a0b7ef32b34256812f22a090adf03de484d6"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/qf_vmat_g_tmetalness_10974e8a.vtex_c",
+     "size": 2640,
+     "sha256": "76fd809a06ddd1035dde7d0317557522d60b8a294984b425b7f303a7fd80c36e"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/qf_vmat_g_tnormal_cbfddf8a.vtex_c",
+     "size": 2320,
+     "sha256": "29484201ade7ccfa4b4cb340673c515ed38c6ce021e0d777d5c00a3fc91a890c"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/sh.vmat_c",
+     "size": 4533,
+     "sha256": "1787fef84b56a04e025ee4305d5dc0ae6dec0c1794067131038183f62f382cf7"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/sh_vmat_g_tmetalness_ea0784b4.vtex_c",
+     "size": 2304,
+     "sha256": "bc13d088911a12a8a7ed487b68c31f1ab5b6cac43a9ad298c3172e28072ce2fc"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/up.vmat_c",
+     "size": 4192,
+     "sha256": "3ad2442611b5dd58b9e8434ace721d1364ba7e6a1a760029ccd097c01a02404e"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/up_vmat_g_tmetalness_10974e8a.vtex_c",
+     "size": 2640,
+     "sha256": "76fd809a06ddd1035dde7d0317557522d60b8a294984b425b7f303a7fd80c36e"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/up_vmat_g_tnormal_cbfddf8a.vtex_c",
+     "size": 2320,
+     "sha256": "29484201ade7ccfa4b4cb340673c515ed38c6ce021e0d777d5c00a3fc91a890c"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/xk.vmat_c",
+     "size": 4229,
+     "sha256": "4317d5826b366e08db51f5411238fed544b10444b1cf2ba0555d0843e13513a0"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/mat/xk_vmat_g_tmetalness_ea0784b4.vtex_c",
+     "size": 2304,
+     "sha256": "bc13d088911a12a8a7ed487b68c31f1ab5b6cac43a9ad298c3172e28072ce2fc"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/tex/arms_png_92f9c393.vtex_c",
+     "size": 177032,
+     "sha256": "0d711b45875a50371a57db35e31da068258787e78b0dd4a12751fc20ab7e471c"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/tex/bake_png_5b301227.vtex_c",
+     "size": 177032,
+     "sha256": "9034c4ef6343e39979e7714413e765f1762e4af3fb9c05c1f2848faed634379d"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/tex/bake_png_93a5768f.vtex_c",
+     "size": 177032,
+     "sha256": "cf700a0a0790683b079bfa9b4669be1378b0d4dad7264cc9184b381ce86e3b73"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/tex/grad_png_7ca4810f.vtex_c",
+     "size": 12996,
+     "sha256": "5e8a989116ebf298bbe84e84dbda4d61f59d349dd5172ca32a663de1870a5828"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/tex/t_r2t1aimisimd10011bangs_d hi on_png_b30c4cd7.vtex_c",
+     "size": 701336,
+     "sha256": "eff8ae632e05c6ac82bd44fb0c5fd9fbab2b228151b759eaf6829189254dbe5e"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/tex/t_r2t1aimisimd10011down01_d_png_96a61f93.vtex_c",
+     "size": 701336,
+     "sha256": "414cc2a443f757cc007a2c94dc1ec8f629bb59826f3d7bb09500137e08b899d4"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/tex/t_r2t1aimisimd10011eye_d_png_5b8ba336.vtex_c",
+     "size": 177048,
+     "sha256": "848b76b77a33da1571d87798d12101f34788318e1b5616d354d6a8fc06745686"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/tex/t_r2t1aimisimd10011face_d_png_7a64d7a6.vtex_c",
+     "size": 701336,
+     "sha256": "2fe2e064d7e0ed3e8b30e3b07cb5f862ddb92fa099429c606d1b18bd3d70228c"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/tex/t_r2t1aimisimd10011fx01_d_png_a79dc024.vtex_c",
+     "size": 1400384,
+     "sha256": "2fe34268432d2f6b1a5a0087a33422969575a0475712015988f2a426846e8e58"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/tex/t_r2t1aimisimd10011fx01_d_png_ec88d79c.vtex_c",
+     "size": 701336,
+     "sha256": "7d8a01f78e5a3c92b3ed884926c21af43955577d4290d782f85f7ee5f5077fa5"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/tex/t_r2t1aimisimd10011hair_d hi on_png_26e9e05b.vtex_c",
+     "size": 701336,
+     "sha256": "d48817ed261a02fb1f9e065eef56d16b4e56068e522bc7280b232156622579d1"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/tex/t_r2t1aimisimd10011item_d_png_2d65c1.vtex_c",
+     "size": 701336,
+     "sha256": "339cf0ef1664d9d2e7fd78887bbdc1ea3dd34a6406593429f76e13b111ff9e08"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/ams_mm/tex/t_r2t1aimisimd10011up01_d_png_a56ed0ff.vtex_c",
+     "size": 701336,
+     "sha256": "8592d388e7dd5c8a126f9e92d2ca80977678b9648e45a287068fe23c5d846258"
+    },
+    {
+     "path": "particles/7ychu5/weapons/csol_guitar/csol_guitar.vtex_c",
+     "size": 1379560,
+     "sha256": "f4770a85e81896e16fe64ce5cce3f3f8797fdb289cb6206eae96bd8faf23db30"
+    },
+    {
+     "path": "particles/aquaz/ams/trail_main.vpcf_c",
+     "size": 1333,
+     "sha256": "4a7745e79b5f8375e7104cc0d156ee605c0fdcb444a5631dde658fc71e748941"
+    },
+    {
+     "path": "particles/aquaz/ams/trail_p1.vpcf_c",
+     "size": 4561,
+     "sha256": "ec6bc42afc2d186019b86436925d2d088eaf02b545cf692f49996a242d3e20ba"
+    },
+    {
+     "path": "particles/aquaz/ams/trail_p3.vpcf_c",
+     "size": 4680,
+     "sha256": "be7a737c4a46b9f9b0b09c66e7ddde7451e7b44faa07395a2a8b9c6067e7f6bb"
+    }
+   ]
+  },
+  {
+   "name": "Async Hazmat Suits",
+   "model": "agents/models/hmn_ag2/backrooms/async_hazmat_suits/async_hazmat_suits.vmdl",
+   "thumb": "agents/models/hmn_ag2/backrooms/async_hazmat_suits/async_hazmat_suits.png",
+   "files": [
+    {
+     "path": "agents/models/hmn_ag2/backrooms/async_hazmat_suits/async_hazmat_suits.png",
+     "size": 337538,
+     "sha256": "f301fc5e5df6a420d1da09f599349a2d7902b790fffbf4f49afa836998e2bbcc"
+    },
+    {
+     "path": "agents/models/hmn_ag2/backrooms/async_hazmat_suits/async_hazmat_suits.vmdl_c",
+     "size": 586283,
+     "sha256": "b02c3b55fe816b1808a757aebd3df7ef4cd84ffae0bb224500709271cb5d6c0b"
+    },
+    {
+     "path": "agents/models/hmn_ag2/backrooms/async_hazmat_suits/materials/hazmat.vmat_c",
+     "size": 4889,
+     "sha256": "aeb4bc0e34ffd10c58c842f81b7490896761bb518d63fb46dbb6766c900e0c85"
+    },
+    {
+     "path": "agents/models/hmn_ag2/backrooms/async_hazmat_suits/materials/hazmat_c_jpg_6b6ad9a0.vtex_c",
+     "size": 2798332,
+     "sha256": "a87315baba43c8a81d57a1c08c7184ce66e7413dc3e6f9eb19cd9edee1c649e5"
+    },
+    {
+     "path": "agents/models/hmn_ag2/backrooms/async_hazmat_suits/materials/hazmat_n_jpg_edab5c57.vtex_c",
+     "size": 5594612,
+     "sha256": "fdc36850172cda358069e528af60edf9f2494d7907218ea4895debebce0a51b9"
+    },
+    {
+     "path": "agents/models/hmn_ag2/backrooms/async_hazmat_suits/materials/hazmat_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 2024,
+     "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+    },
+    {
+     "path": "agents/models/hmn_ag2/backrooms/async_hazmat_suits/materials/hazmat_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+     "size": 1880,
+     "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+    },
+    {
+     "path": "agents/models/hmn_ag2/backrooms/async_hazmat_suits/materials/hazmat_vmat_g_tmetalness_1081f06e.vtex_c",
+     "size": 2592,
+     "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+    },
+    {
+     "path": "materials/default/default_mask_tga_cac76a2f.vtex_c",
+     "size": 2248,
+     "sha256": "bbac6fb22b3d95550f89beeac37d222d6f66fc1cc959e9c0e5a1e45451adfd1c"
+    }
+   ]
+  },
+  {
+   "name": "Ballas Blackwhite New",
+   "model": "characters/models/madebyruzh/blackwhiteballas/ballas_blackwhite_new.vmdl",
+   "thumb": "characters/models/madebyruzh/blackwhiteballas/ballas_blackwhite_new.png",
+   "files": [
+    {
+     "path": "characters/models/madebyruzh/blackwhiteballas/ballas_blackwhite_new.png",
+     "size": 244231,
+     "sha256": "860656b2225100d0292a7d56d4d5fb80cd032995190fb599b724d7950d493058"
+    },
+    {
+     "path": "characters/models/madebyruzh/blackwhiteballas/ballas_blackwhite_new.vmdl_c",
+     "size": 165326,
+     "sha256": "a303e80f35f2bc1d15341c0945331d1beeb44b8fd8e3da10f68bbf4392951400"
+    },
+    {
+     "path": "characters/models/madebyruzh/blackwhiteballas/materials/1.vmat_c",
+     "size": 3852,
+     "sha256": "d9eca27767e99ffd8f94c9cd774c9140417a5bfc431f2e60b019d10e19a7b2a4"
+    },
+    {
+     "path": "characters/models/madebyruzh/blackwhiteballas/materials/default_7be61377_rough_png_f5694a20.vtex_c",
+     "size": 2448,
+     "sha256": "962198345bdb7ffefddb8a5c5a7c7af1f9ba065794d6589e41453f0035995540"
+    },
+    {
+     "path": "characters/models/madebyruzh/blackwhiteballas/materials/white_tga_3f378ba5_png_91af83ac_png_eb4e2559.vtex_c",
+     "size": 2798348,
+     "sha256": "b4266553fa15df3905ab55340160751e82fd3cb2a457569064eb4b441b0c4a80"
+    }
+   ]
+  },
+  {
+   "name": "Banana",
+   "model": "characters/models/aquaz/hoshistar/banana/banana.vmdl",
+   "thumb": "characters/models/aquaz/hoshistar/banana/banana.png",
+   "files": [
+    {
+     "path": "characters/models/aquaz/hoshistar/banana/banana.png",
+     "size": 163870,
+     "sha256": "97c9173ad1112cb4282a252ccc42f027bca5488807f53116669e878fb19ccfad"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/banana/banana.vmdl_c",
+     "size": 102638,
+     "sha256": "2f77c1fed7cb69fa654dab823007c4f140d0c7007b82584cb614979ed1db2bfe"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/banana/mat/body.vmat_c",
+     "size": 4144,
+     "sha256": "2361d5f4f50b28a5d5b302421788a42530fb2cded7b7bc757ebc3bbeacd74706"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/banana/mat/body_vmat_g_tmetalness_10974e8a.vtex_c",
+     "size": 2640,
+     "sha256": "76fd809a06ddd1035dde7d0317557522d60b8a294984b425b7f303a7fd80c36e"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/banana/mat/eyes.vmat_c",
+     "size": 4144,
+     "sha256": "6b5e65a118490f7f3c3f139032a4540e490e702a1d121b133241b3565858342f"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/banana/mat/eyes_vmat_g_tmetalness_10974e8a.vtex_c",
+     "size": 2640,
+     "sha256": "76fd809a06ddd1035dde7d0317557522d60b8a294984b425b7f303a7fd80c36e"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/banana/mat/eyes_vmat_g_tnormal_53b47c48.vtex_c",
+     "size": 2320,
+     "sha256": "9c6e6ff0e98d788c8370f59bd3d640457bb29ba4548952081553cc7e337dffbb"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/banana/mat/limbs.vmat_c",
+     "size": 4144,
+     "sha256": "b996cc67cb46628bc9b95fe80d2fcc32b17a338d8b98a267bf0235eaf4491d97"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/banana/mat/limbs_vmat_g_tmetalness_10974e8a.vtex_c",
+     "size": 2640,
+     "sha256": "76fd809a06ddd1035dde7d0317557522d60b8a294984b425b7f303a7fd80c36e"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/banana/mat/mouth.vmat_c",
+     "size": 4416,
+     "sha256": "cb1019323e8c65ae8b1dfa79f805ed7cf9180e8940d623471985228ddebb5687"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/banana/mat/mouth_vmat_g_tmetalness_10974e8a.vtex_c",
+     "size": 2640,
+     "sha256": "76fd809a06ddd1035dde7d0317557522d60b8a294984b425b7f303a7fd80c36e"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/banana/mat/mouth_vmat_g_tnormal_53b47c48.vtex_c",
+     "size": 2320,
+     "sha256": "9c6e6ff0e98d788c8370f59bd3d640457bb29ba4548952081553cc7e337dffbb"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/banana/mat/slow_body_tga_f4b30929.vtex_c",
+     "size": 45820,
+     "sha256": "5e93af1cfbaab382f5b07a08de4695f705ee71fc9fa5bd972f4c758cab1b39c8"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/banana/mat/slow_eyes_tga_259b2a3d.vtex_c",
+     "size": 45820,
+     "sha256": "c9c70417c2fcc4925beda8e8097322f0a367f3b5081281cc54aa16bad19edbc4"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/banana/mat/slow_limbs_bump_tga_82725d09.vtex_c",
+     "size": 24052,
+     "sha256": "4c90ffb47fe126d59e7ccc7a67e71e0d7712b248f1c6f6b927d692cbadb9bfe2"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/banana/mat/slow_limbs_tga_dbbf5e4f.vtex_c",
+     "size": 13052,
+     "sha256": "b36dd7305718002fa29ca2c584f84e265f42b29e297dc5f8b1856608e3b61ca3"
+    },
+    {
+     "path": "characters/models/aquaz/hoshistar/banana/mat/slow_mouth_tga_4578c019.vtex_c",
+     "size": 89588,
+     "sha256": "8c29234fdf28f0c0831e4f4960b8b2133782ec90d8ef2c8bd336e8edfd64837b"
+    }
+   ]
+  },
+  {
+   "name": "Blue",
+   "model": "characters/models/daniya/blue.vmdl",
+   "thumb": "characters/models/daniya/blue.png",
+   "files": [
+    {
+     "path": "characters/models/daniya/blue.png",
+     "size": 413025,
+     "sha256": "37acb0dc3d9b7f74405bb370b758e04febd8adb55f245cf1a3efcb88d9967786"
+    },
+    {
+     "path": "characters/models/daniya/blue.vmdl_c",
+     "size": 2184034,
+     "sha256": "5eed6ff8180a1a5f47edd7c2d9a64529c49a0014872f7f14adcb888f82684a66"
+    },
+    {
+     "path": "characters/models/daniya/blue/body_vmorf.vtex_c",
+     "size": 232484,
+     "sha256": "50773104e4f93f01f1a4c667fc32e984189c729e783efa2259966090b99ac0a3"
+    },
+    {
+     "path": "characters/models/daniya/tex/bangs02_dh.vmat_c",
+     "size": 3952,
+     "sha256": "255ebd73e8d6e1794fcf29122acd4a679a2577a8c46702db1acfc5f6f4fa9db3"
+    },
+    {
+     "path": "characters/models/daniya/tex/bangs02_dh_png_92a2c3e.vtex_c",
+     "size": 701304,
+     "sha256": "6c8990fe80615fb0d819feda283b95faa1bcdb3969d9f80130d5169deabc43d4"
+    },
+    {
+     "path": "characters/models/daniya/tex/bangs02_dh_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 2024,
+     "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+    },
+    {
+     "path": "characters/models/daniya/tex/bangs02_dh_vmat_g_tmetalness_1081f06e.vtex_c",
+     "size": 2576,
+     "sha256": "7f96d54d55883e25ba5e98f6c6295418d17c5e259616beebc365c8cff19fa2db"
+    },
+    {
+     "path": "characters/models/daniya/tex/bangs02_dh_vmat_g_tnormal_d52512a9.vtex_c",
+     "size": 2112,
+     "sha256": "898f050293b1aeff76b2744be5571b35f72fe59c66405e6ecdb3350ce34e689b"
+    },
+    {
+     "path": "characters/models/daniya/tex/cloth_d.vmat_c",
+     "size": 4016,
+     "sha256": "abf935aa7119f5ff52cdbb5b48444ac931beb324af1da503a13dcf34b0295fcf"
+    },
+    {
+     "path": "characters/models/daniya/tex/cloth_d_png_f7c93e19.vtex_c",
+     "size": 701288,
+     "sha256": "16586db9508e8c8547f0cec191ef407c49960bfd4c018750991a9150b0f71bfb"
+    },
+    {
+     "path": "characters/models/daniya/tex/cloth_d_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 2024,
+     "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+    },
+    {
+     "path": "characters/models/daniya/tex/cloth_d_vmat_g_tmetalness_1081f06e.vtex_c",
+     "size": 2576,
+     "sha256": "7f96d54d55883e25ba5e98f6c6295418d17c5e259616beebc365c8cff19fa2db"
+    },
+    {
+     "path": "characters/models/daniya/tex/cloth_d_vmat_g_tnormal_d52512a9.vtex_c",
+     "size": 2112,
+     "sha256": "898f050293b1aeff76b2744be5571b35f72fe59c66405e6ecdb3350ce34e689b"
+    },
+    {
+     "path": "characters/models/daniya/tex/down02_d.vmat_c",
+     "size": 3952,
+     "sha256": "9e511dc6671fc54239e6f28606de88e45f83a1df8ec1bcf27631e88ff5e43a2e"
+    },
+    {
+     "path": "characters/models/daniya/tex/down02_d_png_e5bf7409.vtex_c",
+     "size": 701288,
+     "sha256": "8e9f157a0400c5319081773533a25b0912cedb703f773a7d38eafc5d52e6692c"
+    },
+    {
+     "path": "characters/models/daniya/tex/down02_d_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 2024,
+     "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+    },
+    {
+     "path": "characters/models/daniya/tex/down02_d_vmat_g_tmetalness_1081f06e.vtex_c",
+     "size": 2576,
+     "sha256": "7f96d54d55883e25ba5e98f6c6295418d17c5e259616beebc365c8cff19fa2db"
+    },
+    {
+     "path": "characters/models/daniya/tex/down02_d_vmat_g_tnormal_d52512a9.vtex_c",
+     "size": 2112,
+     "sha256": "898f050293b1aeff76b2744be5571b35f72fe59c66405e6ecdb3350ce34e689b"
+    },
+    {
+     "path": "characters/models/daniya/tex/eye2_d.vmat_c",
+     "size": 4092,
+     "sha256": "f663d64ca3a4875daa062508ea6bb62c5ce6c55bb4bfcdb77979b201fcf28d91"
+    },
+    {
+     "path": "characters/models/daniya/tex/eye2_d_png_7b62273a.vtex_c",
+     "size": 701288,
+     "sha256": "cecbc76eefd5f9b912cfa0332d955aa53518b0f70feaf80b740533a586091e20"
+    },
+    {
+     "path": "characters/models/daniya/tex/eye2_d_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 2024,
+     "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+    },
+    {
+     "path": "characters/models/daniya/tex/eye2_d_vmat_g_tnormal_d52512a9.vtex_c",
+     "size": 2112,
+     "sha256": "898f050293b1aeff76b2744be5571b35f72fe59c66405e6ecdb3350ce34e689b"
+    },
+    {
+     "path": "characters/models/daniya/tex/eye_em_png_7e97ca00.vtex_c",
+     "size": 701288,
+     "sha256": "cdee324ade6cc93f89cb135178fdf8cb5de21af9e77b561002aeccad8c3ede6f"
+    },
+    {
+     "path": "characters/models/daniya/tex/face02_d.vmat_c",
+     "size": 3952,
+     "sha256": "3d7155d13788fe636e05690045ad146b94b3bc32faf5d8887cec62fe9cb74551"
+    },
+    {
+     "path": "characters/models/daniya/tex/face02_d_png_5691db6f.vtex_c",
+     "size": 701288,
+     "sha256": "4cc913bd54ee4af25a64e0cebff3c7b17ee4dccfee0c141e1dbeee32c5024fae"
+    },
+    {
+     "path": "characters/models/daniya/tex/face02_d_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 2024,
+     "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+    },
+    {
+     "path": "characters/models/daniya/tex/face02_d_vmat_g_tmetalness_1081f06e.vtex_c",
+     "size": 2576,
+     "sha256": "7f96d54d55883e25ba5e98f6c6295418d17c5e259616beebc365c8cff19fa2db"
+    },
+    {
+     "path": "characters/models/daniya/tex/face02_d_vmat_g_tnormal_d52512a9.vtex_c",
+     "size": 2112,
+     "sha256": "898f050293b1aeff76b2744be5571b35f72fe59c66405e6ecdb3350ce34e689b"
+    },
+    {
+     "path": "characters/models/daniya/tex/fx_d.vmat_c",
+     "size": 4394,
+     "sha256": "8fdeb48688cac1372e4b6c999f0b40a4b06a457980970c06d8961335d0e496d5"
+    },
+    {
+     "path": "characters/models/daniya/tex/fx_d_png_8d0370ff.vtex_c",
+     "size": 351856,
+     "sha256": "455675b8ba3f5739617623be9a7a8fc01af2bc6be3b98f6e2e36beff691d7061"
+    },
+    {
+     "path": "characters/models/daniya/tex/fx_d_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 2024,
+     "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+    },
+    {
+     "path": "characters/models/daniya/tex/fx_d_vmat_g_tnormal_d52512a9.vtex_c",
+     "size": 2112,
+     "sha256": "898f050293b1aeff76b2744be5571b35f72fe59c66405e6ecdb3350ce34e689b"
+    },
+    {
+     "path": "characters/models/daniya/tex/fx_d_vmat_g_tselfillummask_ff155607.vtex_c",
+     "size": 2024,
+     "sha256": "aa80eeabfddb62997c15e6c26199c4b4a83760d15a63209a71be5baf6ea6ebb1"
+    },
+    {
+     "path": "characters/models/daniya/tex/hair02_dh.vmat_c",
+     "size": 3952,
+     "sha256": "aa3c21d28b88756f9787fdf08a9e4c32266939becaad8ef0b15f61e959da6b3e"
+    },
+    {
+     "path": "characters/models/daniya/tex/hair02_dh_png_a77b373e.vtex_c",
+     "size": 701304,
+     "sha256": "812519f65d3a75fdb9307c2e0d3114a25b9d9b42ee67dc6294dde1373ed34c87"
+    },
+    {
+     "path": "characters/models/daniya/tex/hair02_dh_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 2024,
+     "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+    },
+    {
+     "path": "characters/models/daniya/tex/hair02_dh_vmat_g_tmetalness_1081f06e.vtex_c",
+     "size": 2576,
+     "sha256": "7f96d54d55883e25ba5e98f6c6295418d17c5e259616beebc365c8cff19fa2db"
+    },
+    {
+     "path": "characters/models/daniya/tex/hair02_dh_vmat_g_tnormal_d52512a9.vtex_c",
+     "size": 2112,
+     "sha256": "898f050293b1aeff76b2744be5571b35f72fe59c66405e6ecdb3350ce34e689b"
+    },
+    {
+     "path": "characters/models/daniya/tex/up02_d.vmat_c",
+     "size": 3984,
+     "sha256": "f60c534b80d27fffad61f636feb12a88c87ad382069b21ca44e19d07591d83bd"
+    },
+    {
+     "path": "characters/models/daniya/tex/up02_d_png_244a7ebd.vtex_c",
+     "size": 701288,
+     "sha256": "f80078221021db500c89513a5dc4c16661d44492120c5cc2076c3729daaccbd4"
+    },
+    {
+     "path": "characters/models/daniya/tex/up02_d_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 2024,
+     "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+    },
+    {
+     "path": "characters/models/daniya/tex/up02_d_vmat_g_tmetalness_b70f8f59.vtex_c",
+     "size": 2624,
+     "sha256": "6ad1016b41e75d5dc6d6d47b684087d8aaf896d1129227573ef0bbd28c90bea2"
+    },
+    {
+     "path": "characters/models/daniya/tex/up02_d_vmat_g_tnormal_d52512a9.vtex_c",
+     "size": 2112,
+     "sha256": "898f050293b1aeff76b2744be5571b35f72fe59c66405e6ecdb3350ce34e689b"
+    },
+    {
+     "path": "characters/models/daniya/tex/up02_em_png_8c760377.vtex_c",
+     "size": 701288,
+     "sha256": "fb1f8c30f5a9bc2519fe6fa04eb4ae67a29a94a0f0b2d3e5d7390c87094da3ea"
+    },
+    {
+     "path": "characters/models/daniya/tex/up02_light.vmat_c",
+     "size": 4124,
+     "sha256": "d1e203bfd363a805fdcee4b24e7a6955bbd9384e173f8a9884030ee16a9248e1"
+    },
+    {
+     "path": "characters/models/daniya/tex/up02_light_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 2024,
+     "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+    },
+    {
+     "path": "characters/models/daniya/tex/up02_light_vmat_g_tnormal_d52512a9.vtex_c",
+     "size": 2112,
+     "sha256": "898f050293b1aeff76b2744be5571b35f72fe59c66405e6ecdb3350ce34e689b"
+    }
+   ]
+  },
+  {
+   "name": "Centaureissi",
+   "model": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/centaureissi.vmdl",
+   "thumb": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/centaureissi.png",
+   "files": [
+    {
+     "path": "agents/models/hmn_ag2/_versatility_arm/materials/hand_tex_png_9dffad3.vtex_c",
+     "size": 701180,
+     "sha256": "036914e6f5d693228f1eee0e7b3831fa65c4c4b4a91992aa8bf83027702e23b5"
+    },
+    {
+     "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex.vmat_c",
+     "size": 4192,
+     "sha256": "71d8e0417285af2535522e179b547340e54beeee68c0b4abec770b316f3e504e"
+    },
+    {
+     "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 2024,
+     "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+    },
+    {
+     "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tmetalness_b99de324.vtex_c",
+     "size": 2592,
+     "sha256": "4de081570aaea36e0daf4dc876aef594b62bb840784db494ad897ed3ce9ad107"
+    },
+    {
+     "path": "agents/models/hmn_ag2/_versatility_arm/materials/versatility_armtex_vmat_g_tnormal_aed807f.vtex_c",
+     "size": 2320,
+     "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/centaureissi.png",
+     "size": 331662,
+     "sha256": "d04f595e0df9cf8ca207590dad5a386f38315c22d0eed80452a7622bef17267e"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/centaureissi.vmdl_c",
+     "size": 1200418,
+     "sha256": "62a983cdcaf32175d3a28b7065f300fa4529691f32426c5103d0b6603143eb3d"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/centaureissi_sk2model/body_vmorf.vtex_c",
+     "size": 21128,
+     "sha256": "cbb3f63912605842d8ed393fd3f2b2651063660ea416ee07825d85719e53c8c1"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_cloth01_cs2.vmat_c",
+     "size": 5017,
+     "sha256": "4b6d521b02a47fb414aecc3ae44cc0728c0b8dc638fdf8c4e2d113a4ab6da89a"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_cloth01_cs2_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 2024,
+     "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_cloth01_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+     "size": 1880,
+     "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_cloth01_cs2_vmat_g_tmetalness_1081f06e.vtex_c",
+     "size": 2592,
+     "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_cloth01_d_jpg_30435e58.vtex_c",
+     "size": 2798348,
+     "sha256": "1d37b49973187f838db4de486421bd5bbe15129961d1f2d915ccaa9c2eada78d"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_cloth01_n_jpg_d4066971.vtex_c",
+     "size": 5594628,
+     "sha256": "a482c6d41d83ad35f7c31e0ef655d719de380a72281fc2f03fba966fc19cbacc"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_cloth02_cs2.vmat_c",
+     "size": 5033,
+     "sha256": "ebc1512ffb376115340c52a64bd03fe8a920046eb4a644d0afa34c4a48156246"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_cloth02_cs2_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 2024,
+     "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_cloth02_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+     "size": 1880,
+     "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_cloth02_cs2_vmat_g_tmetalness_1081f06e.vtex_c",
+     "size": 2592,
+     "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_cloth02_d_jpg_aa7a3333.vtex_c",
+     "size": 701196,
+     "sha256": "29e1a62675d73de9f7cf7277d9d80462452a0ae4244338ab727703d18cdc9a19"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_cloth02_n_jpg_3b1c9e7d.vtex_c",
+     "size": 1400324,
+     "sha256": "74f61ff37edcbd8c5ea8dec77086b5d5c7c278c55107e28bae19e70b10060f3f"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_eye_blend_cs2.vmat_c",
+     "size": 5289,
+     "sha256": "0fb257748c94a3990c46ed1493af34779ca6c759920a0dbca1b3b74fface23c7"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_eye_blend_cs2_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 2024,
+     "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_eye_blend_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+     "size": 1880,
+     "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_eye_blend_cs2_vmat_g_tmetalness_1081f06e.vtex_c",
+     "size": 2592,
+     "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_eye_blend_cs2_vmat_g_tnormal_953a319c.vtex_c",
+     "size": 2112,
+     "sha256": "20eccf0d163816b23779a7c266e6879f3b7c2f0bd86939459c3fd1e68e0bd3d4"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_eye_cs2.vmat_c",
+     "size": 5033,
+     "sha256": "4344b862db7661076c8cdb320af781151f8e1bdfd851b93816015b274a431e6b"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_eye_cs2_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 2024,
+     "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_eye_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+     "size": 1880,
+     "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_eye_cs2_vmat_g_tmetalness_1081f06e.vtex_c",
+     "size": 2592,
+     "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_eye_cs2_vmat_g_tnormal_aed807f.vtex_c",
+     "size": 2320,
+     "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_eyes_blend_png_b923fe88.vtex_c",
+     "size": 89556,
+     "sha256": "b13a835be617288202650c3f58459b3547013f7566db6e4210b4adab04e7692e"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_eyes_d_jpg_e92b50f6.vtex_c",
+     "size": 176908,
+     "sha256": "ab39f0f84f6076aabca2005bd1a32af72997f1a0746f550de060f3dc12f279af"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_face_cs2.vmat_c",
+     "size": 5049,
+     "sha256": "767e45ec24b1b789e04dfc6aa8034730e7472a1989f14ce892eb6a904898cb07"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_face_cs2_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 2024,
+     "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_face_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+     "size": 1880,
+     "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_face_cs2_vmat_g_tmetalness_1081f06e.vtex_c",
+     "size": 2592,
+     "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_face_cs2_vmat_g_tnormal_aed807f.vtex_c",
+     "size": 2320,
+     "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_face_d_jpg_9a1619ab.vtex_c",
+     "size": 701196,
+     "sha256": "5ac7aa8e723a64c42bef7687912126644d618cca6390eb3ce1d07fcd6113b97e"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_hair_cs2.vmat_c",
+     "size": 5049,
+     "sha256": "8d4997c0fd2c5c5cf6c145f350e5f7ed3e5a4f0f11cb8ba9759f0d40b9a5da33"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_hair_cs2_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 2024,
+     "sha256": "82323f68fd9d7f34f319f13ed7cca420c952e3ced6f91722569f8538009b4173"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_hair_cs2_vmat_g_tdiffusefalloff_aa1e6fc8.vtex_c",
+     "size": 1880,
+     "sha256": "4e60f8838daadba63387285bf75d897d353d35c7c29a7b573b98041159c6975d"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_hair_cs2_vmat_g_tmetalness_1081f06e.vtex_c",
+     "size": 2592,
+     "sha256": "17fa5d4c12f61b30ee256f11199bd1e73582118c85b27af7b9fd501de8e5a82d"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_hair_cs2_vmat_g_tnormal_aed807f.vtex_c",
+     "size": 2320,
+     "sha256": "3e0236bba9d47fda90dce0debefa0b751c1077e7eb1dc918219061b624774721"
+    },
+    {
+     "path": "agents/models/hmn_ag2/dollsfrontline2/centaureissi/materials/centaureissi_hair_d_jpg_355135ea.vtex_c",
+     "size": 2798348,
+     "sha256": "24c3852878a38564e4098908fd83b4bd8bf52f59e51d272b0c2ba5a16dc1606c"
+    },
+    {
+     "path": "materials/default/default_mask_tga_cac76a2f.vtex_c",
+     "size": 2248,
+     "sha256": "bbac6fb22b3d95550f89beeac37d222d6f66fc1cc959e9c0e5a1e45451adfd1c"
+    }
+   ]
+  },
+  {
+   "name": "Chris Zombie",
+   "model": "characters/models/shared/zombies/chris_zombie.vmdl",
+   "thumb": "characters/models/shared/zombies/chris_zombie.png",
+   "files": [
+    {
+     "path": "characters/models/shared/zombies/chris_zombie.png",
+     "size": 459160,
+     "sha256": "3d7144e93f16261a11c9e26fe184a95b31f06cb83e99baec94f6578dde0f76ec"
+    },
+    {
+     "path": "characters/models/shared/zombies/chris_zombie.vmdl_c",
+     "size": 286851,
+     "sha256": "2d5c3ab44119d0ca9d90c3440116cc20ca9545850ec61c6abf6236fbe0d09039"
+    },
+    {
+     "path": "characters/models/shared/zombies/materials/default_eyes_color_png_8bfa15e4_png_65229805.vtex_c",
+     "size": 45976,
+     "sha256": "7da8ada732aff7a61199be8ace9144657ca310a0e7fd2951adf5cdd905383996"
+    },
+    {
+     "path": "characters/models/shared/zombies/materials/walker_body.vmat_c",
+     "size": 4224,
+     "sha256": "062dbcfed0555afbe9b05dec4f4730dfe355dde77575f0e3101914f062ca1674"
+    },
+    {
+     "path": "characters/models/shared/zombies/materials/walker_body_vmat_g_tmetalness_b70f8f59.vtex_c",
+     "size": 2640,
+     "sha256": "5d50bea43b56d3dd5c94271a050a059f6f68b83d53f39040a55b11ce92f15d29"
+    },
+    {
+     "path": "characters/models/shared/zombies/materials/walker_bodyv2_color_tga_4b1d12f6_png_691d3e70.vtex_c",
+     "size": 177048,
+     "sha256": "15889b5df08c53db2b85bc9e17a480afa47b30132cdc36e4076ba82da148d64f"
+    },
+    {
+     "path": "characters/models/shared/zombies/materials/walker_bodyv2_normal_tga_c11b9792_png_6fdbd37.vtex_c",
+     "size": 351888,
+     "sha256": "e405eed990c38c414649a98b27918b5bb5cffceee9161bab408d81021ce2a6ef"
+    },
+    {
+     "path": "characters/models/shared/zombies/materials/walker_eyes.vmat_c",
+     "size": 4144,
+     "sha256": "344e40755af517197425c6c5742506e09e776bf056fbb089e37b60f2dea7b6e4"
+    },
+    {
+     "path": "characters/models/shared/zombies/materials/walker_eyes_vmat_g_tmetalness_10974e8a.vtex_c",
+     "size": 2640,
+     "sha256": "76fd809a06ddd1035dde7d0317557522d60b8a294984b425b7f303a7fd80c36e"
+    },
+    {
+     "path": "characters/models/shared/zombies/materials/walker_eyes_vmat_g_tnormal_cbfddf8a.vtex_c",
+     "size": 2320,
+     "sha256": "29484201ade7ccfa4b4cb340673c515ed38c6ce021e0d777d5c00a3fc91a890c"
+    },
+    {
+     "path": "characters/models/shared/zombies/materials/walker_face.vmat_c",
+     "size": 4224,
+     "sha256": "a0a64b963ababb296ccf769340ffbfd73fdcd317aa408f2617615b45e085deb2"
+    },
+    {
+     "path": "characters/models/shared/zombies/materials/walker_face_vmat_g_tmetalness_b70f8f59.vtex_c",
+     "size": 2640,
+     "sha256": "5d50bea43b56d3dd5c94271a050a059f6f68b83d53f39040a55b11ce92f15d29"
+    },
+    {
+     "path": "characters/models/shared/zombies/materials/walker_facev2_color_tga_20f0336c_png_50cfb51e.vtex_c",
+     "size": 89664,
+     "sha256": "4560fe6b58d48210de1b2ead980bfdf9456a167d8545908850a688b3d52f67e7"
+    },
+    {
+     "path": "characters/models/shared/zombies/materials/walker_facev2_normal_tga_51b7d803_png_cd41fc51.vtex_c",
+     "size": 177120,
+     "sha256": "5fcb451cc6a40551b88ea64cda15a529b4ef17de39b2fb737be10be45e34f07f"
+    },
+    {
+     "path": "characters/models/shared/zombies/materials/walker_lower.vmat_c",
+     "size": 4240,
+     "sha256": "df084dbf63abe3c7d469fdd2f1283be06182a14f6594d753a27dd9b2c8439fd6"
+    },
+    {
+     "path": "characters/models/shared/zombies/materials/walker_lower_vmat_g_tmetalness_b70f8f59.vtex_c",
+     "size": 2640,
+     "sha256": "5d50bea43b56d3dd5c94271a050a059f6f68b83d53f39040a55b11ce92f15d29"
+    },
+    {
+     "path": "characters/models/shared/zombies/materials/walker_lowerbodyv2_color_tga_2c9c4fb2_png_b9548596.vtex_c",
+     "size": 89664,
+     "sha256": "354c6951034578cdc9169c2f4daca467758b23e8f8cb797a3a46dc625f9910b5"
+    },
+    {
+     "path": "characters/models/shared/zombies/materials/walker_lowerbodyv2_normal_tga_64fcab3b_png_49b2b3ca.vtex_c",
+     "size": 177136,
+     "sha256": "de422ea02a5dd5161986a7302b029d96e1b27a78135d5a245e719773b449c54d"
+    }
+   ]
+  },
+  {
+   "name": "Colphne",
+   "model": "characters/models/exg/colphne/colphne.vmdl",
+   "thumb": "characters/models/exg/colphne/colphne.png",
+   "files": [
+    {
+     "path": "characters/models/exg/aili/chuyin/max/blcak_vmat_g_tcolor1_67e6fb17.vtex_c",
+     "size": 2240,
+     "sha256": "03d96e0761288186d2e9590fe46485200ff0d3527d0d7355b12c98a1b0ee6380"
+    },
+    {
+     "path": "characters/models/exg/colphne/c_colphne_eye_d_png_ed07c399.vtex_c",
+     "size": 45788,
+     "sha256": "64afc315763943cb3527824a7438afe53a307b1edbdd55db7d6db6d047068c37"
+    },
+    {
+     "path": "characters/models/exg/colphne/c_colphne_face_d_png_528b1eb.vtex_c",
+     "size": 176860,
+     "sha256": "5bd8825a77f2497ef99b88f83a06fe6eeb02f684ba506a1bab951e84e03ecc5a"
+    },
+    {
+     "path": "characters/models/exg/colphne/c_colphne_hair_d_png_701bd4c8.vtex_c",
+     "size": 176860,
+     "sha256": "aa44f9a61e6dee908efe93679836d2f34e48c9e9b230112ce77d7d129e628d54"
+    },
+    {
+     "path": "characters/models/exg/colphne/c_colphnesr01_slg_cloth1_d_png_68471ac.vtex_c",
+     "size": 176860,
+     "sha256": "4037cf75caa50f040d9bd3a1ab3c55808dc82c384966ec51ced7ffc87660c282"
+    },
+    {
+     "path": "characters/models/exg/colphne/c_colphnesr01_slg_cloth1_n_png_1904c4d1.vtex_c",
+     "size": 351780,
+     "sha256": "7984f5623d1de4788ef9a9017bb993a7cc4004b66a111ae8e48178b24520efc0"
+    },
+    {
+     "path": "characters/models/exg/colphne/c_colphnesr01_slg_cloth2_d_png_74a49305.vtex_c",
+     "size": 176860,
+     "sha256": "6a0dc1682fb87f50f7c3b6a09fce8ea3d50b87fc9b8617c26d09d4fd80ca06ed"
+    },
+    {
+     "path": "characters/models/exg/colphne/c_colphnesr01_slg_cloth2_n_png_aa47a2fc.vtex_c",
+     "size": 351780,
+     "sha256": "62706e15bd66f024c42e0c1fa1a15c2639c44607916da3b9176b26396de03f20"
+    },
+    {
+     "path": "characters/models/exg/colphne/cloth1.vmat_c",
+     "size": 3904,
+     "sha256": "ffd576ef750162f5010b4257421623debd6ae0a759d2cfb37957e0bffbf00ba9"
+    },
+    {
+     "path": "characters/models/exg/colphne/cloth1_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 1976,
+     "sha256": "e09139bf4b62e3ff05bcee5e663ebef2ce200798a590d29e7b214d944a55f0ab"
+    },
+    {
+     "path": "characters/models/exg/colphne/cloth1_vmat_g_tmetalness_b70f8f59.vtex_c",
+     "size": 2576,
+     "sha256": "a9795cd49cdad9f7802c946efdb0a676067e53699560dd231b0658511edcd0ad"
+    },
+    {
+     "path": "characters/models/exg/colphne/cloth2.vmat_c",
+     "size": 3904,
+     "sha256": "e76942ae5d174aaac9aec85883b39a7d7f6f8f2020520e1a4bba6d901c76809d"
+    },
+    {
+     "path": "characters/models/exg/colphne/cloth2_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 1976,
+     "sha256": "e09139bf4b62e3ff05bcee5e663ebef2ce200798a590d29e7b214d944a55f0ab"
+    },
+    {
+     "path": "characters/models/exg/colphne/cloth2_vmat_g_tmetalness_b70f8f59.vtex_c",
+     "size": 2576,
+     "sha256": "a9795cd49cdad9f7802c946efdb0a676067e53699560dd231b0658511edcd0ad"
+    },
+    {
+     "path": "characters/models/exg/colphne/colphne.png",
+     "size": 310872,
+     "sha256": "6eba777fff8eff7c0cec9554b46137db292fc94977b519170b6953d161458fd6"
+    },
+    {
+     "path": "characters/models/exg/colphne/colphne.vmdl_c",
+     "size": 639925,
+     "sha256": "eb9f74e5e3bd4f0ef2fa5c43a861bc85024ef920f6bd2f812303150944c37e93"
+    },
+    {
+     "path": "characters/models/exg/colphne/ex.vmat_c",
+     "size": 4037,
+     "sha256": "f293aeccc6a8413c9a546ac86605e417d6e2534893263749ceb5839b491b7fcf"
+    },
+    {
+     "path": "characters/models/exg/colphne/eye.vmat_c",
+     "size": 4064,
+     "sha256": "bb8bf8722c2f88efad9dcb8b8e373e2f4a0917b297f738f9d784a2f18e22b33e"
+    },
+    {
+     "path": "characters/models/exg/colphne/eye_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 1976,
+     "sha256": "e09139bf4b62e3ff05bcee5e663ebef2ce200798a590d29e7b214d944a55f0ab"
+    },
+    {
+     "path": "characters/models/exg/colphne/eye_vmat_g_tnormal_adc42d14.vtex_c",
+     "size": 2272,
+     "sha256": "47b6be468230092052fc7ef506255dc427f1b57b582e850dc9bf03cd6ab6853e"
+    },
+    {
+     "path": "characters/models/exg/colphne/eye_vmat_g_tselfillummask_554b633a.vtex_c",
+     "size": 1976,
+     "sha256": "0a874bde3e28e00cb4a0af1cd33c381af9f91cdbd8f8482553559e908c0337af"
+    },
+    {
+     "path": "characters/models/exg/colphne/face.vmat_c",
+     "size": 3920,
+     "sha256": "ee5e478157aae97b48f2014e3ff35567110d0248deb9655d76731d871e0d3b21"
+    },
+    {
+     "path": "characters/models/exg/colphne/face_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 1976,
+     "sha256": "e09139bf4b62e3ff05bcee5e663ebef2ce200798a590d29e7b214d944a55f0ab"
+    },
+    {
+     "path": "characters/models/exg/colphne/face_vmat_g_tmetalness_b70f8f59.vtex_c",
+     "size": 2576,
+     "sha256": "a9795cd49cdad9f7802c946efdb0a676067e53699560dd231b0658511edcd0ad"
+    },
+    {
+     "path": "characters/models/exg/colphne/face_vmat_g_tnormal_adc42d14.vtex_c",
+     "size": 2272,
+     "sha256": "47b6be468230092052fc7ef506255dc427f1b57b582e850dc9bf03cd6ab6853e"
+    },
+    {
+     "path": "characters/models/exg/colphne/hair.vmat_c",
+     "size": 3888,
+     "sha256": "3027a9509330ae38ee836edac140d7c05444ca79c953fea0c90ba6afe0b33aad"
+    },
+    {
+     "path": "characters/models/exg/colphne/hair_vmat_g_tambientocclusion_9782fd5c.vtex_c",
+     "size": 1976,
+     "sha256": "e09139bf4b62e3ff05bcee5e663ebef2ce200798a590d29e7b214d944a55f0ab"
+    },
+    {
+     "path": "characters/models/exg/colphne/hair_vmat_g_tmetalness_b70f8f59.vtex_c",
+     "size": 2576,
+     "sha256": "a9795cd49cdad9f7802c946efdb0a676067e53699560dd231b0658511edcd0ad"
+    },
+    {
+     "path": "characters/models/exg/colphne/hair_vmat_g_tnormal_adc42d14.vtex_c",
+     "size": 2272,
+     "sha256": "47b6be468230092052fc7ef506255dc427f1b57b582e850dc9bf03cd6ab6853e"
+    }
+   ]
+  },
+  {
+   "name": "Cube Banana",
+   "model": "characters/models/nozb1/cube_banana_player_model/cube_banana_player_model.vmdl",
+   "thumb": "characters/models/nozb1/cube_banana_player_model/cube_banana_player_model.png",
+   "files": [
+    {
+     "path": "characters/models/nozb1/cube_banana_player_model/cube_banana_player_model.png",
+     "size": 75843,
+     "sha256": "dbb981a0c70fb0ad57420b48a35e0ce26cd1fe865e4954a0870b7343e2bb2ea3"
+    },
+    {
+     "path": "characters/models/nozb1/cube_banana_player_model/cube_banana_player_model.vmdl_c",
+     "size": 932525,
+     "sha256": "86619dc92d23180ce87584fcf7d38c8a8b416014c4e71d680b8de0c7b9fdfff0"
+    },
+    {
+     "path": "characters/models/nozb1/cube_banana_player_model/cube_banana_player_model/body_vmorf.vtex_c",
+     "size": 112292,
+     "sha256": "07d959bcdcd0509a86fbde8127bf79111efae5ef6f0eb9308b4ac15f7ff5ac3d"
+    },
+    {
+     "path": "characters/models/nozb1/cube_banana_player_model/materials/banana_arm.vmat_c",
+     "size": 4096,
+     "sha256": "9a9cc248ae86e001b7cf478497d31e22442db985becc327402e31bb557fbc913"
+    },
+    {
+     "path": "characters/models/nozb1/cube_banana_player_model/materials/banana_arm_vmat_g_tmetalness_b70f8f59.vtex_c",
+     "size": 2544,
+     "sha256": "abdbb2b0873990cd9539e23da431d3e45fecf659dea59c20b9fb99b2576a2702"
+    },
+    {
+     "path": "characters/models/nozb1/cube_banana_player_model/materials/banana_body.vmat_c",
+     "size": 3836,
+     "sha256": "82121eadd67bf21edc3405ebd67dd45601e1c4197bbd4530fc048603c0e06df5"
+    },
+    {
+     "path": "characters/models/nozb1/cube_banana_player_model/materials/banana_cul.vmat_c",
+     "size": 4205,
+     "sha256": "4e174a6328f482bbf08f8b893bffd6e8fe05a65b463eee56abcbbb980dc12a75"
+    },
+    {
+     "path": "characters/models/nozb1/cube_banana_player_model/materials/banana_cul_vmat_g_tnormal_53b47c48.vtex_c",
+     "size": 2240,
+     "sha256": "1b26157bc1bc2445aa534657f2b58243937f3766cb2da6ef679ddcaa5e172659"
+    },
+    {
+     "path": "characters/models/nozb1/cube_banana_player_model/materials/banana_eyes.vmat_c",
+     "size": 4096,
+     "sha256": "8e7d1bb1448a47d2732f1217af59d9fb76b331b4f542d6a03874bed5d61dce0a"
+    },
+    {
+     "path": "characters/models/nozb1/cube_banana_player_model/materials/banana_eyes2.vmat_c",
+     "size": 4032,
+     "sha256": "7ebee3bd79c7627b39fae39eb79b84735670d62feda7708456d2a52c406ee7b2"
+    },
+    {
+     "path": "characters/models/nozb1/cube_banana_player_model/materials/banana_eyes2_vmat_g_tmetalness_b70f8f59.vtex_c",
+     "size": 2544,
+     "sha256": "abdbb2b0873990cd9539e23da431d3e45fecf659dea59c20b9fb99b2576a2702"
+    },
+    {
+     "path": "characters/models/nozb1/cube_banana_player_model/materials/banana_eyes_vmat_g_tmetalness_b70f8f59.vtex_c",
+     "size": 2544,
+     "sha256": "abdbb2b0873990cd9539e23da431d3e45fecf659dea59c20b9fb99b2576a2702"
+    },
+    {
+     "path": "characters/models/nozb1/cube_banana_player_model/materials/banana_mouth.vmat_c",
+     "size": 4048,
+     "sha256": "e7379acb9c1902f9c7e4ccb4c7d86dbb61be94c16c77d46df0ea4812db0f7446"
+    },
+    {
+     "path": "characters/models/nozb1/cube_banana_player_model/materials/banana_mouth_vmat_g_tmetalness_b70f8f59.vtex_c",
+     "size": 2544,
+     "sha256": "abdbb2b0873990cd9539e23da431d3e45fecf659dea59c20b9fb99b2576a2702"
+    },
+    {
+     "path": "characters/models/nozb1/cube_banana_player_model/materials/grad_png_45d89dca.vtex_c",
+     "size": 45804,
+     "sha256": "2c4b0769c1661e03d9aa2c3dac410a94b0be6cbb70bc4a6e575e381f16d3994e"
+    }
+   ]
+  },
+  {
+   "name": "Donghai",
+   "model": "characters/exg/10114/10114.vmdl",
+   "thumb": "characters/exg/10114/10114.png",
+   "files": [
+    {
+     "path": "characters/exg/10114/10114.png",
+     "size": 270866,
+     "sha256": "f04e5d61c20917f42acf90548096c48bbcc66b22596c99783e304eb61c9aa735"
+    },
+    {
+     "path": "characters/exg/10114/10114.vmdl_c",
+     "size": 780444,
+     "sha256": "04b9de85dde2158a35f2696eb5f28f8c550c5d265ae9e89b06c1d603502dd9be"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/1_png_242679ed.vtex_c",
+     "size": 133172,
+     "sha256": "97aef4ce9ba7263e47753f9205630ffdee387f26b0d5f0ae6ec4ac466d18f1cc"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/2_png_3305853a.vtex_c",
+     "size": 18484,
+     "sha256": "1fc2bb0d483fb4ce576b73d76ada559e8ccab4ea14b890bc080932051c2a8e96"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/3_png_e3510ff4.vtex_c",
+     "size": 176860,
+     "sha256": "1b78a9b0af3bf09f58afdb0f1e22a2b5e7b608fb710c2be81a26656947a9e3ac"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/4_png_ac6199b7.vtex_c",
+     "size": 133172,
+     "sha256": "3116338092b3e7a4010f48f8b8afc1b6c1fe46ae9b5da1429006fc65a8c005e5"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/5_png_6b5d65d1.vtex_c",
+     "size": 34868,
+     "sha256": "c69334fc4c8f53d2022a69960ecf55162996ddf12c598154e99aab01546ba6cb"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/body.vmat_c",
+     "size": 4160,
+     "sha256": "dfc6609a2a9d98a9b814a6d7a3d7f9dce4eb82e8798bcc9f3e2c5fab30414595"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/body_arms.vmat_c",
+     "size": 4096,
+     "sha256": "64aaf33ff1e997f82031e9c9c0880534f5d1223b6baf4f21ffbc19c00e817daf"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/body_arms_vmat_g_tmetalness_b70f8f59.vtex_c",
+     "size": 2624,
+     "sha256": "ae8ae9c8b5e0f10a09ebdf29f4aa57c70f0513dc23c3bff0a017d5061c1c23c0"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/body_vmat_g_tmetalness_8b7c8902.vtex_c",
+     "size": 2672,
+     "sha256": "c0336796f6e63a558b2f6796918a1fe33f7dda941fddb4e8479f2ab0852bbb47"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/donghai/bd_vmorf.vtex_c",
+     "size": 404024,
+     "sha256": "a2db21ec5111cd051b88f3feb5c5a0e309cb1211da52088730cbc6fce3c4a7ea"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/eye.vmat_c",
+     "size": 4064,
+     "sha256": "54fc958c7f6b6b8452b4a77a990f4c9661517ef9bc101f5f2ba224c324bff97c"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/eye_vmat_g_tmetalness_b70f8f59.vtex_c",
+     "size": 2624,
+     "sha256": "ae8ae9c8b5e0f10a09ebdf29f4aa57c70f0513dc23c3bff0a017d5061c1c23c0"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/face.vmat_c",
+     "size": 4048,
+     "sha256": "d9ed1adf41db5e956bac312e0340dbc0fec091a9602880e524c5e6bf164ac738"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/face_vmat_g_tmetalness_b70f8f59.vtex_c",
+     "size": 2624,
+     "sha256": "ae8ae9c8b5e0f10a09ebdf29f4aa57c70f0513dc23c3bff0a017d5061c1c23c0"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/fuku_arms.vmat_c",
+     "size": 4096,
+     "sha256": "9dc44fbaeac4b8030f96f75483f62ef9b132f79c125a854c90954a6581abc8fe"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/fuku_arms_vmat_g_tmetalness_b70f8f59.vtex_c",
+     "size": 2624,
+     "sha256": "ae8ae9c8b5e0f10a09ebdf29f4aa57c70f0513dc23c3bff0a017d5061c1c23c0"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/hair.vmat_c",
+     "size": 4064,
+     "sha256": "83ce38374aabf0600747841297e1db259f6c7422ffc556d37c04290e88bcf607"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/hair_vmat_g_tmetalness_b70f8f59.vtex_c",
+     "size": 2624,
+     "sha256": "ae8ae9c8b5e0f10a09ebdf29f4aa57c70f0513dc23c3bff0a017d5061c1c23c0"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/tail.vmat_c",
+     "size": 4064,
+     "sha256": "f1005e1adc37d3fa3ff05b7c8ccd51df9790294fc7a1aa095e7f6b5ab5ac4ac0"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/tail_vmat_g_tmetalness_b70f8f59.vtex_c",
+     "size": 2624,
+     "sha256": "ae8ae9c8b5e0f10a09ebdf29f4aa57c70f0513dc23c3bff0a017d5061c1c23c0"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/tokaibody01_png_41477561.vtex_c",
+     "size": 133328,
+     "sha256": "da33d0634689a2cdaf7200879a15fb0cfc547840b8e346aaf308ec58caf66524"
+    },
+    {
+     "path": "characters/models/exg/djhl/donghai/tokaifuku01_png_66b617cd.vtex_c",
+     "size": 133188,
+     "sha256": "991929632729e53ad491e44624a28843a4484feaad59e3054f580851c6a5c97a"
+    }
+   ]
+  },
+  {
+   "name": "Gta Blood",
+   "model": "characters/models/madebyruzh/gta_blood/gta_blood.vmdl",
+   "thumb": "characters/models/madebyruzh/gta_blood/gta_blood.png",
+   "files": [
+    {
+     "path": "characters/models/madebyruzh/gta_blood/gta_blood.png",
+     "size": 293516,
+     "sha256": "36c04fb8baf8dd55536d16315772827c7dffb25ea6fa247f292cfc50cb844c75"
+    },
+    {
+     "path": "characters/models/madebyruzh/gta_blood/gta_blood.vmdl_c",
+     "size": 120096,
+     "sha256": "f0c2944b0156a23e2c4700579a9ed200b3b170f3bc556333ab7da2c2539e011f"
+    },
+    {
+     "path": "characters/models/madebyruzh/gta_blood/materials/body.vmat_c",
+     "size": 3708,
+     "sha256": "51924d789e2c76d8e74ebc218f01c86e5a275d6dd08659b872e08bd6efcc385d"
+    },
+    {
+     "path": "characters/models/madebyruzh/gta_blood/materials/body_n_tga_17e0ed5d.vtex_c",
+     "size": 177012,
+     "sha256": "18b9940496151f8b4bb84747371a8e9817fda6ab3a50fd80211e1b98b44b2355"
+    },
+    {
+     "path": "characters/models/madebyruzh/gta_blood/materials/body_tga_b691218f.vtex_c",
+     "size": 89492,
+     "sha256": "ae9e54b9815f348163c26f3765ce7a5fdcd8749191a64b80e25ef4baec8b9944"
+    },
+    {
+     "path": "characters/models/madebyruzh/gta_blood/materials/chain.vmat_c",
+     "size": 3708,
+     "sha256": "4c35a466e2822ca1b00588dda0a4daafa11de98032da07347a6810b58fdf8027"
+    },
+    {
+     "path": "characters/models/madebyruzh/gta_blood/materials/chain_n_tga_39bcdcd2.vtex_c",
+     "size": 24100,
+     "sha256": "11b92dfdf4c5e6ad09c694dca9c366f31235a6bddb3688527f7ebf0a9296d02b"
+    },
+    {
+     "path": "characters/models/madebyruzh/gta_blood/materials/chain_tga_edcdf8a4.vtex_c",
+     "size": 13036,
+     "sha256": "ad46e90acfafde1d238c0c9a3d59a07a5837656ecff591664b99b49837991c9d"
+    },
+    {
+     "path": "characters/models/madebyruzh/gta_blood/materials/mask.vmat_c",
+     "size": 3708,
+     "sha256": "be56a78a7185947be1d16f98509e1d944c450dcc5c893262ba69c926bb9d8319"
+    },
+    {
+     "path": "characters/models/madebyruzh/gta_blood/materials/mask_n_tga_ce2f5a28.vtex_c",
+     "size": 89636,
+     "sha256": "a7f76f6e93ffa5dc205d35a6d1ca373cfae2bf12748c312b3fd53b0504876e11"
+    },
+    {
+     "path": "characters/models/madebyruzh/gta_blood/materials/mask_tga_c0e1fbeb.vtex_c",
+     "size": 45804,
+     "sha256": "de4134df78d54488cb808132ca40a7e4d53755ad9caffe9b75ab2a93b8172f28"
+    },
+    {
+     "path": "characters/models/madebyruzh/gta_blood/materials/soilderx.vmat_c",
+     "size": 3740,
+     "sha256": "c7f321d83ed9e1c91c3021c5d92624830191a6f51e5ebb141e763bf03850d697"
+    },
+    {
+     "path": "characters/models/madebyruzh/gta_blood/materials/soldierx_n_tga_f5af8cd3.vtex_c",
+     "size": 7732,
+     "sha256": "2d176f679b8175227cff34d21276842c3d759c5c79895f687d3f8d903ca8f9fe"
+    },
+    {
+     "path": "characters/models/madebyruzh/gta_blood/materials/soldierx_tga_2364bbe0.vtex_c",
+     "size": 2796,
+     "sha256": "764089068ace32564a02df305a49135615600ca55d4de8808ce11e2c5a245b41"
+    }
+   ]
+  },
+  {
+   "name": "Gta1",
+   "model": "characters/models/exg/mmy/gta1/CJ.vmdl",
+   "thumb": "characters/models/exg/mmy/gta1/CJ.png",
+   "files": [
+    {
+     "path": "characters/models/exg/mmy/gta1/CJ.png",
+     "size": 279967,
+     "sha256": "71fca738dbf31b904f881947c9dde99d0e72fc05398d4ab0f50ecc9fbb5e54cf"
+    },
+    {
+     "path": "characters/models/exg/mmy/gta1/CJ.vmdl_c",
+     "size": 185268,
+     "sha256": "decaaef6efb57fa0c5f93c730c27a6eaf56f11ffcd37cff6aae792565f528fea"
+    },
+    {
+     "path": "characters/models/exg/mmy/gta1/vmat/head.vmat_c",
+     "size": 3862,
+     "sha256": "9a83fc67d4998629c744537adfa64fcfb6d266f6294a4953c0be475113853ab5"
+    },
+    {
+     "path": "characters/models/exg/mmy/gta1/vmat/head_png_85026999.vtex_c",
+     "size": 12972,
+     "sha256": "e9b627e9d056b2a728fddeabd5361b36ffe10012347f29d4d10a7b3d51c2473d"
+    },
+    {
+     "path": "characters/models/exg/mmy/gta1/vmat/head_vmat_g_tmetalness_deedc9d6.vtex_c",
+     "size": 2576,
+     "sha256": "88fcaa8a7173db0914492c3eb075286c8df0ef0b31d7cdd9e75c811deabf83c1"
+    },
+    {
+     "path": "characters/models/exg/mmy/gta1/vmat/head_vmat_g_tnormal_53b47c48.vtex_c",
+     "size": 2272,
+     "sha256": "49c8b03a20ff8da27b65b89a2f8c9135c7576ba95debc506d67a2bb4f96874ee"
+    },
+    {
+     "path": "characters/models/exg/mmy/gta1/vmat/jeans.vmat_c",
+     "size": 3862,
+     "sha256": "307414b24896f94ea93012a484cdf7b0ed40bb17fe00dc9409a36421e6d28290"
+    },
+    {
+     "path": "characters/models/exg/mmy/gta1/vmat/jeans_png_8a6f9058.vtex_c",
+     "size": 23908,
+     "sha256": "296ce4548c6d2e2539ad89cbdb36a194ddb989dd2793e21f7a23b5dbe98f91c7"
+    },
+    {
+     "path": "characters/models/exg/mmy/gta1/vmat/jeans_vmat_g_tmetalness_deedc9d6.vtex_c",
+     "size": 2576,
+     "sha256": "88fcaa8a7173db0914492c3eb075286c8df0ef0b31d7cdd9e75c811deabf83c1"
+    },
+    {
+     "path": "characters/models/exg/mmy/gta1/vmat/jeans_vmat_g_tnormal_53b47c48.vtex_c",
+     "size": 2272,
+     "sha256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5"
+    },
+    {
+     "path": "characters/models/exg/mmy/gta1/vmat/shirt.vmat_c",
+     "size": 3862,
+     "sha256": "29a21db00f4c7c00c1fe2bc2cc49183fea0e9e547d015e8793e9b49d7a1f7dcf"
+    },
+    {
+     "path": "characters/models/exg/mmy/gta1/vmat/shirt_png_2b79bcd7.vtex_c",
+     "size": 45756,
+     "sha256": "c36f07a2e98aefc7ef47cbbb4f336c00984214b8bcd57707b95fd73b720f2df4"
+    },
+    {
+     "path": "characters/models/exg/mmy/gta1/vmat/shirt_vmat_g_tmetalness_deedc9d6.vtex_c",
+     "size": 2576,
+     "sha256": "88fcaa8a7173db0914492c3eb075286c8df0ef0b31d7cdd9e75c811deabf83c1"
+    },
+    {
+     "path": "characters/models/exg/mmy/gta1/vmat/shirt_vmat_g_tnormal_53b47c48.vtex_c",
+     "size": 2272,
+     "sha256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5"
+    },
+    {
+     "path": "characters/models/exg/mmy/gta1/vmat/shoe.vmat_c",
+     "size": 3846,
+     "sha256": "0020806a735fee1672b83f017dacc59d70abc4730add7dafde70b5101670ca78"
+    },
+    {
+     "path": "characters/models/exg/mmy/gta1/vmat/shoe_png_8f8099cf.vtex_c",
+     "size": 4780,
+     "sha256": "f65ae1ff631941d4634479d92f8b19596e1a293b6c2bdb25bc202cb44732fed1"
+    },
+    {
+     "path": "characters/models/exg/mmy/gta1/vmat/shoe_vmat_g_tmetalness_deedc9d6.vtex_c",
+     "size": 2576,
+     "sha256": "88fcaa8a7173db0914492c3eb075286c8df0ef0b31d7cdd9e75c811deabf83c1"
+    },
+    {
+     "path": "characters/models/exg/mmy/gta1/vmat/shoe_vmat_g_tnormal_53b47c48.vtex_c",
+     "size": 2272,
+     "sha256": "436b2c1e5b0c755fb00f577cf843768a3ec179e880fa6e1e203fda62be0d04d5"
+    }
+   ]
+  },
+  {
+   "name": "Kermit",
+   "model": "characters/models/nozb1/kermit_player_model/kermit_player_model.vmdl",
+   "thumb": "characters/models/nozb1/kermit_player_model/kermit_player_model.png",
+   "files": [
+    {
+     "path": "characters/models/nozb1/kermit_player_model/kermit_player_model.png",
+     "size": 291133,
+     "sha256": "4ef6491591c2617e40bc90552b0c62e8c032ab0c51299ac015823b11782e965a"
+    },
+    {
+     "path": "characters/models/nozb1/kermit_player_model/kermit_player_model.vmdl_c",
+     "size": 218678,
+     "sha256": "153b2c0ab3c44cf517145935a0280e5bec3461af7b6151e571eb6d97dfc90c98"
+    },
+    {
+     "path": "characters/models/nozb1/kermit_player_model/materials/kermit_ao_png_e84988c6.vtex_c",
+     "size": 690180,
+     "sha256": "26672cc2f3b3d442a2ff7f479d3a0c74851354d25ec1bcfc5d30120339632104"
+    },
+    {
+     "path": "characters/models/nozb1/kermit_player_model/materials/kermit_body.vmat_c",
+     "size": 4192,
+     "sha256": "960a2c0d5521c9384d1d5f08e01b80baffb0556fa6b45ee4fce15f1abf5ec01e"
+    },
+    {
+     "path": "characters/models/nozb1/kermit_player_model/materials/kermit_body_vmat_g_tmetalness_b70f8f59.vtex_c",
+     "size": 2544,
+     "sha256": "abdbb2b0873990cd9539e23da431d3e45fecf659dea59c20b9fb99b2576a2702"
+    },
+    {
+     "path": "characters/models/nozb1/kermit_player_model/materials/kermit_diffuse_png_9998942a.vtex_c",
+     "size": 701100,
+     "sha256": "2dcbf6982c604d4244f97b01a96ebd3fc3592c249934054655bcc2fd36e0b83f"
+    },
+    {
+     "path": "characters/models/nozb1/kermit_player_model/materials/kermit_normal_png_f423d059.vtex_c",
+     "size": 1400372,
+     "sha256": "80506935dd84d898e1a2dda18df290f6d95939ccbc73a80594ac225741a61e09"
+    }
+   ]
+  },
+  {
+   "name": "Tungtungtungsahur",
+   "model": "characters/models/exg/tungtungtungsahur/tungtungtungsahur.vmdl",
+   "thumb": "characters/models/exg/tungtungtungsahur/tungtungtungsahur.png",
+   "files": [
+    {
+     "path": "characters/models/exg/tungtungtungsahur/tex/material_png_2125bd0b.vtex_c",
+     "size": 176860,
+     "sha256": "2b36cfc1785ddac5614e40e991625553db9be65b41820d97cab5c6f752bcad6c"
+    },
+    {
+     "path": "characters/models/exg/tungtungtungsahur/tungtungtungsahur.png",
+     "size": 250170,
+     "sha256": "3996848fe039677c9651b98fd1ea224ce8ff7a219612c4b88e47da04ed30e8a7"
+    },
+    {
+     "path": "characters/models/exg/tungtungtungsahur/tungtungtungsahur.vmdl_c",
+     "size": 480410,
+     "sha256": "16eb68d12a5a3f22e9529d9a0cd45c1da758e0514137197f501bf6e796a1b91a"
+    },
+    {
+     "path": "characters/models/exg/tungtungtungsahur/vmat/material.vmat_c",
+     "size": 4111,
+     "sha256": "5326e7f07d17d868f7c06452d66fb4f23bdb9eb46af785faa9e6550c4ed8f542"
+    },
+    {
+     "path": "characters/models/exg/tungtungtungsahur/vmat/material_vmat_g_tmetalness_10974e8a.vtex_c",
+     "size": 2624,
+     "sha256": "d3156f9e40faf75ebcf30e4f268b9b96a892cb9f2c9f210fcb41d43438026a8a"
+    },
+    {
+     "path": "characters/models/exg/tungtungtungsahur/vmat/material_vmat_g_tnormal_44ad3107.vtex_c",
+     "size": 2304,
+     "sha256": "7cd041dd5734938520153a8b975368d7e12221927f1811166f217d17f9600c74"
+    }
+   ]
+  }
+ ]
+}
