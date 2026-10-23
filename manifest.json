@@ -1699,6 +1699,353 @@
      "sha256": "7cd041dd5734938520153a8b975368d7e12221927f1811166f217d17f9600c74"
     }
    ]
+  },
+  {
+   "name": "Emote Pack",
+   "model": null,
+   "thumb": null,
+   "files": [
+    {
+     "path": "characters/kolka/fortnite_dance.vmdl_c",
+     "size": 3691283,
+     "sha256": "3b045d5823f9a61f085617b5b9ab7383dac9ce0f902f26ddd76a0b98486a37ab"
+    },
+    {
+     "path": "emotes/music/DanceMoves.mp3",
+     "size": 58176,
+     "sha256": "ea1ef862a9646fd35ce75cdedb7f628ef39609715a054034e10cf5f7a84765c1"
+    },
+    {
+     "path": "emotes/music/ElectroShuffle.mp3",
+     "size": 121820,
+     "sha256": "e7423acfa6cfffdde8cf1c6de0507acd4e7f597f9c3bfdbbba8446f590d1f1f1"
+    },
+    {
+     "path": "emotes/music/Emote_AerobicChamp.mp3",
+     "size": 202486,
+     "sha256": "cd9eb006d98fcbd3104051a20823eeb2f97e808aa449a32767b9a0db871a2191"
+    },
+    {
+     "path": "emotes/music/Emote_BandOfTheFort.mp3",
+     "size": 143136,
+     "sha256": "e1e7010416dfeb10c7a53fdbd61e189798a46b641a53439bbcb928d0258d9654"
+    },
+    {
+     "path": "emotes/music/Emote_Bendy.mp3",
+     "size": 146897,
+     "sha256": "4bc9a869884fd5f454e7f737eafb63aacbd8c68180e176bea9b346d1e18e9371"
+    },
+    {
+     "path": "emotes/music/Emote_BlowKiss.mp3",
+     "size": 4988,
+     "sha256": "105de2f8b2e1629faf326c6912dc396f5d7c3e57873326b0dcff52415f6c3a7e"
+    },
+    {
+     "path": "emotes/music/Emote_BoogieDown.wav",
+     "size": 3237276,
+     "sha256": "6bfd1f9cf16107df012fde6234dca386f725454bad2eac0bf47ca29c3444b941"
+    },
+    {
+     "path": "emotes/music/Emote_Calculated.mp3",
+     "size": 46183,
+     "sha256": "b03836d204505c1a54bd4b2fb6bfdd6c3f23a54ffb023f9537afb05ec793ae69"
+    },
+    {
+     "path": "emotes/music/Emote_Capoeira.mp3",
+     "size": 131029,
+     "sha256": "9a9633f6ffcca39f0b36da4b1fc2c85fb8daa93daf3eded134d7f046a45a05f6"
+    },
+    {
+     "path": "emotes/music/Emote_Celebration.mp3",
+     "size": 51199,
+     "sha256": "cd1493e433afec9819c03f6c88830ae2d3480fa3a17481d997749c98b54f973c"
+    },
+    {
+     "path": "emotes/music/Emote_Charleston.mp3",
+     "size": 118894,
+     "sha256": "bd9d6b8106c6f9227f3e16bc9fda1cf91743b1ac4da1d687f18da5555a253c97"
+    },
+    {
+     "path": "emotes/music/Emote_Chicken.mp3",
+     "size": 59544,
+     "sha256": "c2696908e19f84dcb40589bbddd88b1afedc0516f76f63d209b432f68445b52f"
+    },
+    {
+     "path": "emotes/music/Emote_Cry.mp3",
+     "size": 126013,
+     "sha256": "744b91a385fa63211e8a78e9233511e9864b28963746e6294cf186d7dcb79d65"
+    },
+    {
+     "path": "emotes/music/Emote_DG_Disco.mp3",
+     "size": 118908,
+     "sha256": "f37ebedd612b0ff7ea399f4d7a08d786f887d8c4c9426cef1ad5df467a3f73e8"
+    },
+    {
+     "path": "emotes/music/Emote_Dance_Breakdance.mp3",
+     "size": 117654,
+     "sha256": "d47ad4dfd6a304922552397be660b8709efdf3952019aebeace66991d85057a1"
+    },
+    {
+     "path": "emotes/music/Emote_Dance_Disco_T3.mp3",
+     "size": 137284,
+     "sha256": "3a0066fccfb2d2db5d1b6e0e86924ee71d1582c7201d294d8f4d381369fc53df"
+    },
+    {
+     "path": "emotes/music/Emote_Dance_Loser.mp3",
+     "size": 202904,
+     "sha256": "dc0254415f24de13182c439a815968f0390f6397ad468c36bc34c13a99420305"
+    },
+    {
+     "path": "emotes/music/Emote_Dance_NoBones.mp3",
+     "size": 246371,
+     "sha256": "e9573bbfbbccecd0d04615e6dc57f2928192d21b75da4078bf4a33ab3f6191c3"
+    },
+    {
+     "path": "emotes/music/Emote_Dance_Pump.mp3",
+     "size": 222548,
+     "sha256": "1a38361056a5c38a4329a1adaaa955b5ee2662bc8da7557ee64bffc8fa7a4c62"
+    },
+    {
+     "path": "emotes/music/Emote_Dance_RideThePony.mp3",
+     "size": 28629,
+     "sha256": "718fccc50343d0767957a77f1ee346ad4758e794e8d4c06a8395dd076755e23e"
+    },
+    {
+     "path": "emotes/music/Emote_Dance_Shoot.mp3",
+     "size": 215860,
+     "sha256": "85db3d5b15fc8dfd7dd7deb51c11fdea6d7aa08080314ae1c4740bf98e3ac520"
+    },
+    {
+     "path": "emotes/music/Emote_Dance_SwipeIt.mp3",
+     "size": 212517,
+     "sha256": "047268ba812c8de3a6bedb4dbd2450234bfe223c610fedca133545e48c35ef89"
+    },
+    {
+     "path": "emotes/music/Emote_Dance_Worm.mp3",
+     "size": 110549,
+     "sha256": "6b61fdb84d2c97756997cefc46b55206a4967eabe82ea990558bff440a7a1d3d"
+    },
+    {
+     "path": "emotes/music/Emote_DustOffShoulders.wav",
+     "size": 3681440,
+     "sha256": "a1b7300937e5076925ad67840aa6ce6d60702afb4b409e5b6439666514528a67"
+    },
+    {
+     "path": "emotes/music/Emote_DustingOffHands.mp3",
+     "size": 92275,
+     "sha256": "83ffc42b61c7d97a925a273323eff3a4b5750fdf74ee8a59099696f7c5b33e35"
+    },
+    {
+     "path": "emotes/music/Emote_EasternBloc.mp3",
+     "size": 230071,
+     "sha256": "88e5c3a7e1ce0427e71739d9625d2ac53ae43db10319cd921bee0124e6471f66"
+    },
+    {
+     "path": "emotes/music/Emote_Facepalm.mp3",
+     "size": 37406,
+     "sha256": "4f5e6bb19fc5b0e30e2861293487635da2127a45a7a4a4a2b9414ece8703d976"
+    },
+    {
+     "path": "emotes/music/Emote_FancyFeet.mp3",
+     "size": 270195,
+     "sha256": "41dd46eaf2b98906dcc3e365a36d5666c03ff35ed20a7d9eee9c371e2383bc04"
+    },
+    {
+     "path": "emotes/music/Emote_Fishing.mp3",
+     "size": 64573,
+     "sha256": "17947c9404fb6316bd6977fee19c16bc53bc89b495251de33e68a27fb32bd017"
+    },
+    {
+     "path": "emotes/music/Emote_Flex.mp3",
+     "size": 98387,
+     "sha256": "a02b87700b9f3172ab773f3c0a892e158fc8c1a2f005b46c9a1dff2e70087daa"
+    },
+    {
+     "path": "emotes/music/Emote_FlippnSexy.mp3",
+     "size": 58722,
+     "sha256": "237f6fb62e0c50105c63fd0fc1bd49aa51677d855aa43131a7cbb018a6af795b"
+    },
+    {
+     "path": "emotes/music/Emote_FlossDance.mp3",
+     "size": 134358,
+     "sha256": "c3f6af89d6f6ae6bb628b4c1d36e3bbddb08afb82220e188548537501a165579"
+    },
+    {
+     "path": "emotes/music/Emote_Fresh.mp3",
+     "size": 81696,
+     "sha256": "260e75f0d8e540e94480eef464d94aee2081c07d356ec5c7582be21742f6f1cc"
+    },
+    {
+     "path": "emotes/music/Emote_GrooveJam.mp3",
+     "size": 242610,
+     "sha256": "6dc4cb673a65b74ad3efb7c6bc8821a9bd95e9647323c3a219a46f550ffeaac4"
+    },
+    {
+     "path": "emotes/music/Emote_HandSignals.mp3",
+     "size": 153599,
+     "sha256": "e22c9f981d6a22e261fd7bab96b1f624a8ec17b91c6e059e73c6d22e6d26810a"
+    },
+    {
+     "path": "emotes/music/Emote_HeelClick.mp3",
+     "size": 26178,
+     "sha256": "e54a1e3ddd6a38d2c61dc90b706e04714e32aca59511af3f1c1a9726b6a937e9"
+    },
+    {
+     "path": "emotes/music/Emote_Hillbilly_Shuffle.wav",
+     "size": 1241964,
+     "sha256": "69902b9439b64c29102dcb2d98d2c201df52d462801596d3911ab25648f53f4f"
+    },
+    {
+     "path": "emotes/music/Emote_Hip_Hop.mp3",
+     "size": 233415,
+     "sha256": "fba17eba605fb894e2333764fa8d0afab4343b29373414e2910dc40c5889d62d"
+    },
+    {
+     "path": "emotes/music/Emote_Hotstuff.mp3",
+     "size": 48273,
+     "sha256": "5424d044ef1058188f52cbc1188ea0cc1807b7529b9b500aa405f4ff3c5dd5f8"
+    },
+    {
+     "path": "emotes/music/Emote_Hula.mp3",
+     "size": 226727,
+     "sha256": "559badb034c86a0e6905c520cba16b3c34a2ff6e916e3371559edd611b271c97"
+    },
+    {
+     "path": "emotes/music/Emote_InfiniDab.mp3",
+     "size": 248043,
+     "sha256": "aafddcec61170249204cc6afcfbad0f6b9f33bf4b1320c4b5441e0c92c212074"
+    },
+    {
+     "path": "emotes/music/Emote_Intensity.mp3",
+     "size": 565692,
+     "sha256": "3947ae79591a9f9f9aea5b36e04cdc8a1d0272278d11084e3112b0e39bc8d028"
+    },
+    {
+     "path": "emotes/music/Emote_IrishJig.mp3",
+     "size": 193709,
+     "sha256": "8bae4e3a785d41d2ce0ba941f1d25477c08795baffce2844b7bd10b66bc0a9f9"
+    },
+    {
+     "path": "emotes/music/Emote_KoreanEagle.mp3",
+     "size": 299034,
+     "sha256": "0227ce43ef3cb75ef193342725bbbff8775d6355bf852f90d4c840c960313b1a"
+    },
+    {
+     "path": "emotes/music/Emote_Kpop.mp3",
+     "size": 123491,
+     "sha256": "d12eff4417599526b0ab676bc8299cc80335bbd08772cb7d660292e7e44eb1ac"
+    },
+    {
+     "path": "emotes/music/Emote_Laugh.mp3",
+     "size": 146911,
+     "sha256": "1b8ed99e8daa47e49c804c5e955fe6b7e32c30f8b900373d921d596c9e608a0f"
+    },
+    {
+     "path": "emotes/music/Emote_LivingLarge.mp3",
+     "size": 265598,
+     "sha256": "873c17bbbe2dd02425aa655cfda06aa2f822247c6c5bdf4a5a3665756b8d5483"
+    },
+    {
+     "path": "emotes/music/Emote_Luchador.mp3",
+     "size": 108877,
+     "sha256": "f250805b6837fe15ad65a36e95e16ab68d51d85d0a32dd553602d32e6d89a48d"
+    },
+    {
+     "path": "emotes/music/Emote_Make_It_Rain.mp3",
+     "size": 74604,
+     "sha256": "819ab6f67b94eb9c5e358a4ed2c99cd6beecfb13458ece8df6d3ef20a71c4db3"
+    },
+    {
+     "path": "emotes/music/Emote_Maracas.mp3",
+     "size": 131015,
+     "sha256": "980174b017e5f222f8d406a51212a6b3adcc616befcd36bb27e34cc00ca81cf9"
+    },
+    {
+     "path": "emotes/music/Emote_Mask_Off.mp3",
+     "size": 303632,
+     "sha256": "c06a0c082139ba2f3c06834f880f296ddc41e60ad03d7d9b173ae8512fb6d52b"
+    },
+    {
+     "path": "emotes/music/Emote_PopLock.mp3",
+     "size": 266851,
+     "sha256": "935c39954d53aff5611cfd28de9941d0d37c7c33660b93ba5a960e4690c5da8d"
+    },
+    {
+     "path": "emotes/music/Emote_PopRock.mp3",
+     "size": 256820,
+     "sha256": "abf6e3cbf2022f57744b19b834b6bdc95267daddc27214f0ae51f373503b8f30"
+    },
+    {
+     "path": "emotes/music/Emote_RobotDance.mp3",
+     "size": 317425,
+     "sha256": "498b82fb3d5a1a02d78ead169bd1fdf244b50dd058bd8b49099010314d747c51"
+    },
+    {
+     "path": "emotes/music/Emote_Salute.mp3",
+     "size": 31972,
+     "sha256": "0b888af760f0a668cfad058ed969c8e2f1276e0f42cc6741a6d3bd6fc394d2d3"
+    },
+    {
+     "path": "emotes/music/Emote_SmoothDrive.mp3",
+     "size": 334561,
+     "sha256": "d78d6d466ae37ecf8a41ff017a63375387307f961e6b8e23bbd09ffbb9cefb5e"
+    },
+    {
+     "path": "emotes/music/Emote_Snap.mp3",
+     "size": 30719,
+     "sha256": "85874f06a4c6b86e8c25dc19eeed068193f920f132ae850fcfb0e3c96ee4c194"
+    },
+    {
+     "path": "emotes/music/Emote_StageBow.mp3",
+     "size": 54542,
+     "sha256": "9508bc849c8c27fc8f93d6b50ec3ee77efb2f72ce813e255e588029874a29716"
+    },
+    {
+     "path": "emotes/music/Emote_TechnoZombie.mp3",
+     "size": 154420,
+     "sha256": "a7f295d3a91b86f96f37f8f91aa8318ad02834e4cec02d863d930840ac5ff5ca"
+    },
+    {
+     "path": "emotes/music/Emote_Twist.mp3",
+     "size": 179498,
+     "sha256": "f626ed9bb958ecacff3c849b22f27dcd651f97c44b3887dec55067665efc9067"
+    },
+    {
+     "path": "emotes/music/Emote_WarehouseDance.mp3",
+     "size": 509268,
+     "sha256": "f450310282bfb3e1ec9f9d5210646800f834911f502acf66386bdcf039a24173"
+    },
+    {
+     "path": "emotes/music/Emote_Wiggle.mp3",
+     "size": 83367,
+     "sha256": "db1d84f5bd1e7e4c5fee67460f472fb33edb5fc28c41279124757d9e89c8e0e6"
+    },
+    {
+     "path": "emotes/music/Emote_Yeet.mp3",
+     "size": 35734,
+     "sha256": "cba731eeec1df6d4b289b0e5d7696ba445dab4f4eedb85a40cc48c4b62338f8e"
+    },
+    {
+     "path": "emotes/music/Emote_Youre_Awesome.mp3",
+     "size": 79202,
+     "sha256": "5a1a0924f8b37e14d7ff430a8e959d9cb8094a7a43009dca142087f9a70a6e6f"
+    },
+    {
+     "path": "emotes/music/Emote_Zippy_Dance.mp3",
+     "size": 118058,
+     "sha256": "49580afb6967e9fe4560081467442e2b21b93dcb853939f6b1f528944730598a"
+    },
+    {
+     "path": "emotes/music/Emote_golfclap.mp3",
+     "size": 62483,
+     "sha256": "eb96df28924f680ab9e896d15fc75771873fd72103948ace3ef53f8ea6db111a"
+    },
+    {
+     "path": "emotes/music/Emote_guitar.mp3",
+     "size": 163198,
+     "sha256": "2207ade506eac35ec172a91e194b6d2c62d7a9f1f4c8748b26fdb44dbc4d5451"
+    }
+   ]
   }
  ]
 }
